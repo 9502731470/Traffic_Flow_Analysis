@@ -1,0 +1,39 @@
+{
+  "lanes": [
+    [
+      [
+        100,
+        720
+      ],
+      [
+        500,
+        400
+      ]
+    ],
+    [
+      [
+        550,
+        720
+      ],
+      [
+        900,
+        400
+      ]
+    ],
+    [
+      [
+        950,
+        720
+      ],
+      [
+        1300,
+        400
+      ]
+    ]
+  ],
+  "description": "Lane coordinates for traffic flow analysis",
+  "target_frame_size": [
+    960,
+    540
+  ]
+}
